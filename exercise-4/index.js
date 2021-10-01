@@ -61,11 +61,9 @@ let users = [
     {
         userID: uuidv4(),
         name: "Andreas Avetisian",
-        age: 18,
-        address: "Kalervontie 1B 21/2",
-        phoneNumber: "+79210343815",
-        shoppingCart: [],
-        invoices: []
+        age: 72,
+        address: "Hogwarts street",
+        phoneNumber: "+78301830182"
     }
 ];
 
